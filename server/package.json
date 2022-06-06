@@ -12,9 +12,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^4.0.1",
+    "apollo-server-express": "^3.8.2",
+    "bcrypt": "^5.0.1",
     "express": "^4.17.1",
     "faker": "^4.1.0",
+    "graphql": "^16.5.0",
     "mongoose": "^5.9.9"
   },
   "devDependencies": {
