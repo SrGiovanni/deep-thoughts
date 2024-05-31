@@ -14,7 +14,7 @@
   "dependencies": {
     "apollo-server-express": "^3.8.2",
     "bcrypt": "^5.0.1",
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "faker": "^4.1.0",
     "graphql": "^16.8.1",
     "jsonwebtoken": "^8.5.1",
